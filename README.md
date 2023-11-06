@@ -12,6 +12,8 @@
 - Visualize data using histograms, scatter plots, and correlation matrices.
 - Identify patterns and potential insights related to heart disease diagnosis.
 
+![Img](https://github.com/abhamidi-1234/Predicting-Heart-Disease-with-Support-Vector-Machines/blob/main/Capture1.PNG)
+
 **Step 3: Data Preprocessing**
 
 - Handle missing values, if any, by imputing or removing them.
@@ -65,6 +67,12 @@ The **Radial Basis Function (RBF)** that we are using with our **Support Vector 
 - Interpret the SVM model's findings
 - Identify the most influential features for heart disease prediction.
 - Understand the decision boundaries and support vectors in the SVM model.
+
+![Img](https://github.com/abhamidi-1234/Predicting-Heart-Disease-with-Support-Vector-Machines/blob/main/Capture2.PNG)
+
+![Img](https://github.com/abhamidi-1234/Predicting-Heart-Disease-with-Support-Vector-Machines/blob/main/Capture3.PNG)
+
+![Img](https://github.com/abhamidi-1234/Predicting-Heart-Disease-with-Support-Vector-Machines/blob/main/Capture4.PNG)
 
 **Step 12: Conclusion and Insights**
 
